@@ -1,5 +1,4 @@
 from sa_module import sa
-from qa_module import qa
 from web_scraping import sikayet_bul
 from  bloomberght_scraping import bloomberg_ht
 
